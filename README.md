@@ -7,7 +7,8 @@ These dataset, I captured it from https://bodysize.date by webscraping method an
 
 Data Set Information :
 These data are the result of a women body types. There are 6 columns information.
-1. URL 2. Img_URL
+1. URL 
+2. Img_URL
 3. Bust
 4. Waist
 5. Hip
