@@ -2,10 +2,13 @@
 This model I intent to make reccomendation who you should ware dress like actress.
 
 
-Source :
+# Source :
 These dataset, I captured it from https://bodysize.date by webscraping method and label by using Body Type Calculator from https://goodcalculators.com/body-shape-calculator/
 
-Data Set Information :
+# Objective :
+To recommend women who should you ware dress like the actress from hollywood.
+
+# Data Set Information :
 These data are the result of a women body types. There are 6 columns information.
 1. URL 
 2. Img_URL
